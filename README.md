@@ -7,34 +7,32 @@
 <li>Database: Mongo DB</li>
 <li>Server: Node JS, Express JS</li>
 </ul>
-<br>
 <h3>Installation</h3>
-<p>React </p>
-<a>npm i react</a>
+<h5>React  <a>npm i react</a></h5>
 <br>
-<p>React Router Dom</p>
+<h5>React Router Dom</h5>
 <a>npm i react-router-dom</a>
 <br>
-<p>Chakra UI Framework</p>
+<h5>Chakra UI Framework</h5>
 <a>npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion</a>
 <br>
-<p>Chakra UI Icons</p>
+<h5>Chakra UI Icons</h5>
 <a>npm i @chakra-ui/icons</a>
 <br>
-<p>Notification-badge installation</p>
+<h5>Notification-badge installation</h5>
 <a>npm i react-notification-badge</a>
 <br>
-<p>Socket.IO installation</p>
+<h5>Socket.IO installation</h5>
 <a>npm install socket.io</a>
 <br>
-<p>Axios</p>
+<h5>Axios</h5>
 <a>npm i axios</a>
 <br>
 
 <p>Make sure frontend must be connted with backend</p>
 <br>
 <h4>For run use these cmd</h4>
-<p>for backend use : npm start</p>
+<h5>for backend use : npm start</h5>
 <br>
 <ul>
 for frontend :

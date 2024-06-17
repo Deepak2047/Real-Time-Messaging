@@ -231,7 +231,7 @@ const UGroup = ({ fetchMessages, fetchAgain, setFetchAgain }) => {
             </Box>
             <FormControl display="flex">
               <Input
-                placeholder="Chat Name"
+                placeholder="Chat_Name"
                 mb={3}
                 value={groupChatName}
                 onChange={(e) => setGroupChatName(e.target.value)}
@@ -267,7 +267,7 @@ const UGroup = ({ fetchMessages, fetchAgain, setFetchAgain }) => {
             )}
           </ModalBody>
           <ModalFooter>
-            <Button onClick={() => UserRemove(user)} colorScheme="#274472">
+            <Button onClick={() => UserRemove(user)} colorScheme="red">
               Leave Group
             </Button>
           </ModalFooter>

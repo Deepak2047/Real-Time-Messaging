@@ -68,7 +68,7 @@ Socket.IO installation
 - Real Time Messaging with Typing indicators
 
 
-## Appendix
+## Additional Info
 
 * Make sure frontend must be connted with backend
 * In cluster make sure you can provide your current IP Address

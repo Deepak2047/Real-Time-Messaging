@@ -1,7 +1,6 @@
 <h2>Voyager</h2>
-<br>
+
 <p>Voyager is a full stack website & for  real-time communication between users, it uses Socket.IO and The website stores data in a MongoDB database, and this data is encrypted for security. Chakra UI is a framework used to design the website's user interface, similar to  Bootstrap . </p>
-<br>
 <h3>Tech Stack</h3>
 <ul>
 <li>Client: React JS</li>
@@ -11,25 +10,25 @@
 <br>
 <h3>Installation</h3>
 <p>React </p>
-<link>npm i react</link>
+<a>npm i react</a>
 <br>
 <p>React Router Dom</p>
-<link>npm i react-router-dom</link>
+<a>npm i react-router-dom</a>
 <br>
 <p>Chakra UI Framework</p>
-<link>npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion</link>
+<a>npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion</a>
 <br>
 <p>Chakra UI Icons</p>
-<link>npm i @chakra-ui/icons</link>
+<a>npm i @chakra-ui/icons</a>
 <br>
 <p>Notification-badge installation</p>
-<link>npm i react-notification-badge</link>
+<a>npm i react-notification-badge</a>
 <br>
 <p>Socket.IO installation</p>
-<link>npm install socket.io</link>
+<a>npm install socket.io</a>
 <br>
 <p>Axios</p>
-<link>npm i axios</link>
+<a>npm i axios</a>
 <br>
 
 <p>Make sure frontend must be connted with backend</p>
@@ -38,7 +37,7 @@
 <p>for backend use : npm start</p>
 <br>
 <ul>
-   for frontend :
+for frontend :
 <li>cd apple</li>
 <li>npm start</li>
  </ul>

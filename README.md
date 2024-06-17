@@ -9,37 +9,37 @@
 </ul>
 <h3>Installation</h3>
 <div>
-<h5>React</h5>
+<h4>React</h4>
 <a>npm i react</a>
 </div>
 <div>
-<h5>React Router Dom</h5>
+<h4>React Router Dom</h4>
 <a>npm i react-router-dom</a>
 </div>
 <div>
-<h5>Chakra UI Framework</h5>
+<h4>Chakra UI Framework</h4>
 <a>npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion</a>
 </div>
 <div>
-<h5>Chakra UI Icons</h5>
+<h4>Chakra UI Icons</h4>
 <a>npm i @chakra-ui/icons</a>
 </div>
 <div>
-<h5>Notification-badge installation</h5>
+<h4>Notification-badge installation</h4>
 <a>npm i react-notification-badge</a>
 </div>
 <div>
-<h5>Socket.IO installation</h5>
+<h4>Socket.IO installation</h4>
 <a>npm install socket.io</a>
 </div>
 <div>
-<h5>Axios</h5>
+<h4>Axios</h4>
 <a>npm i axios</a>
 </div>
 <p>Make sure frontend must be connted with backend</p>
 <br>
 <h4>For run use these cmd</h4>
-<h5>for backend use : npm start</h5>
+<h4>for backend use : npm start</h4>
 <br>
 <ul>
 for frontend :

@@ -8,27 +8,34 @@
 <li>Server: Node JS, Express JS</li>
 </ul>
 <h3>Installation</h3>
-<h5>React  <a>npm i react</a></h5>
-<br>
+<div>
+<h5>React</h5>
+<a>npm i react</a>
+</div>
+<div>
 <h5>React Router Dom</h5>
 <a>npm i react-router-dom</a>
-<br>
+</div>
+<div>
 <h5>Chakra UI Framework</h5>
 <a>npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion</a>
-<br>
+</div>
+<div>
 <h5>Chakra UI Icons</h5>
 <a>npm i @chakra-ui/icons</a>
-<br>
+</div>
+<div>
 <h5>Notification-badge installation</h5>
 <a>npm i react-notification-badge</a>
-<br>
+</div>
+<div>
 <h5>Socket.IO installation</h5>
 <a>npm install socket.io</a>
-<br>
+</div>
+<div>
 <h5>Axios</h5>
 <a>npm i axios</a>
-<br>
-
+</div>
 <p>Make sure frontend must be connted with backend</p>
 <br>
 <h4>For run use these cmd</h4>

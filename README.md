@@ -34,7 +34,7 @@
 </div>
 <div>
 <h4>Axios</h4>
-[npm i axios]
+(npm i axios)
 </div>
 <p>Make sure frontend must be connted with backend</p>
 <br>

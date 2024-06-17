@@ -34,15 +34,15 @@
 </div>
 <div>
 <h4>Axios</h4>
-<a>npm i axios</a>
+[npm i axios]
 </div>
 <p>Make sure frontend must be connted with backend</p>
 <br>
 <h4>For run use these cmd</h4>
 <h4>for backend use : npm start</h4>
 <br>
-<ul>
 for frontend :
+<ul>
 <li>cd apple</li>
 <li>npm start</li>
  </ul>

@@ -14,7 +14,7 @@
 </div>
 <div>
 <h4>React Router Dom</h4>
-<a>npm i react-router-dom</a>
+<u>npm i react-router-dom</u>
 </div>
 <div>
 <h4>Chakra UI Framework</h4>

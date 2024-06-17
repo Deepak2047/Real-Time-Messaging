@@ -10,7 +10,7 @@
 <h3>Installation</h3>
 <div>
 <h4>React</h4>
-<a>npm i react</a>
+[npm i react]
 </div>
 <div>
 <h4>React Router Dom</h4>

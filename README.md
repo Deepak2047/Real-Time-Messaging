@@ -11,7 +11,7 @@ Voyager is a full stack website & for  real-time communication between users, it
 **Database:** Mongo DB
 
 
-## Run Locally
+## For Run The Project
 
 Clone the project
 
@@ -56,6 +56,10 @@ Socket.IO installation
 ```bash
  npm install socket.io
 ```
+install bcryptjs
+```bash
+ npm i bcryptjs
+```
 
 
     
@@ -71,5 +75,5 @@ Socket.IO installation
 ## Additional Info
 
 * Make sure frontend must be connted with backend
-* In cluster make sure you can provide your current IP Address
+* In cluster make sure you can provide your current IP Address & connected to the backend
 

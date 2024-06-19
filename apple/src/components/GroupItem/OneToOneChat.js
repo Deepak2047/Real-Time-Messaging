@@ -170,6 +170,7 @@ const OneToOneChat = ({ fetchAgain, setFetchAgain }) => {
             display="flex"
             justifyContent={{ base: "space-between" }}
             alignItems="center"
+            marginBottom={0}
           >
             <IconButton
               display={{ base: "flex", md: "none" }}

@@ -27,6 +27,7 @@ import { getSender } from "../../Configurations/ChatLogic";
 import NotificationBadge from "react-notification-badge";
 import { Effect } from "react-notification-badge";
 
+
 const SideBar = () => {
   const [search, setSearch] = useState("");
   const [searchResult, setSearchResult] = useState([]);
@@ -91,6 +92,10 @@ const SideBar = () => {
     }
   };
 
+   const newsHandler = () => {
+     history.push("/news");
+   };
+
   const Access = async (userId) => {
     try {
       setLoadingChat(true);
@@ -136,12 +141,28 @@ const SideBar = () => {
               display={{ base: "none", md: "flex" }}
               px={3}
               color={"#274472"}
+              mt={5}
             >
               Search User
             </Text>
           </Button>
         </Tooltip>
-        <Text fontSize="2xl">Voyager</Text>
+
+        <Button variant="ghost" onClick={newsHandler}>
+          <Text
+            display={{ base: "none", md: "flex" }}
+            px={3}
+            color={"#274472"}
+            background={"transparent"}
+            mt={4}
+            fontSize={"xl"}
+          >
+            News
+          </Text>
+        </Button>
+        <Text fontSize="2xl" mt={3}>
+          Voyager
+        </Text>
         <div>
           <Menu marginRight={0}>
             <MenuButton p={1}>
@@ -169,9 +190,8 @@ const SideBar = () => {
             </MenuList>
           </Menu>
           <Menu>
-            <MenuButton >
+            <MenuButton>
               <MoonIcon margin={2} marginRight={3} cursor="pointer" />
-           
             </MenuButton>
 
             <Avatar

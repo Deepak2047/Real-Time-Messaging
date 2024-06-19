@@ -1,0 +1,4 @@
+.newsdiv{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -6,6 +6,7 @@ import SideBar from "../components/ChatSetUp/SideBar";
 import MyChats from "../components/ChatSetUp/MyChats";
 import ChatLocal from "../components/ChatSetUp/ChatLocal";
 
+
 const ChatSection = () => {
   const { user } = ChatState();
   const [fetchAgain, setFetchAgain] = useState(false);
@@ -21,6 +22,7 @@ const ChatSection = () => {
         padding="4px"
         position={"fixed"}
       >
+      
         {user && <MyChats fetchAgain={fetchAgain} />}
         {user && (
           <ChatLocal fetchAgain={fetchAgain} setFetchAgain={setFetchAgain} />

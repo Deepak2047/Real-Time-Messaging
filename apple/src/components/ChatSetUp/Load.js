@@ -4,15 +4,14 @@ import React from 'react'
 const Load = () => {
   return (
     <Stack>
-      <Skeleton height="46px" />
-      <Skeleton height="46px" />
-      <Skeleton height="46px" />
-      <Skeleton height="46px" />
-      <Skeleton height="46px" />
-      <Skeleton height="46px" />
-      <Skeleton height="46px" />
-      <Skeleton height="46px" />
-      
+      <Skeleton height="45px"  />
+      <Skeleton height="45px"  />
+      <Skeleton height="45px"  />
+      <Skeleton height="45px"  />
+      <Skeleton height="45px"  />
+      <Skeleton height="45px"  />
+      <Skeleton height="45px"  />
+      <Skeleton height="45px"  />
     </Stack>
   );
 }

@@ -17,10 +17,12 @@ const UserSeq = ({user, handleFunction }) => {
       display="flex"
       alignItems="center"
       color="black"
-      px={3}
-      py={2}
+      justifyItems={"center"}
+       px={3}
+       py={2}
       mb={2}
       borderRadius="lg"
+       height={"3.5rem"}
     >
       <Avatar
         mr={2}
@@ -29,7 +31,7 @@ const UserSeq = ({user, handleFunction }) => {
         name={user.name}
       />
       <Box>
-        <Text>{user.name}</Text>
+        <Text marginBottom={0} marginTop={2}>{user.name}</Text>
         <Text fontSize="xs">
           <b>Email : </b>
           {user.email}

@@ -61,7 +61,7 @@ install bcryptjs
 ```bash
  npm i bcryptjs
 ```
-<<<<<<< HEAD
+
 install Bootstrap
 ```bash
  npm i bootstrap@5.3.3

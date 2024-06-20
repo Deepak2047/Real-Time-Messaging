@@ -32,7 +32,7 @@ const Profile = ({ children }) => {
       )}
       <Modal size="lg" onClose={onClose} isOpen={isOpen} isCentered>
         <ModalOverlay />
-        <ModalContent h="350px">
+        <ModalContent h="360px">
           <ModalHeader fontSize="35px" display="flex" justifyContent="center">
             {user.name}
           </ModalHeader>

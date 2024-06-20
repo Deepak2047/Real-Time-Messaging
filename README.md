@@ -1,10 +1,7 @@
 # Voyager
 
-<<<<<<< HEAD
 Voyager is a full stack website & for  real-time communication between users, it uses Socket.IO and The website stores data in a MongoDB database, and this data is encrypted for security. Chakra UI is a framework used to design the website's user interface .
-=======
-Voyager is a full stack website & for  real-time communication between users, it uses Socket.IO and The website stores data in a MongoDB database, and this data is encrypted for security. Chakra UI is a framework used to design the website's user interface, similar to  Bootstrap .
->>>>>>> 1d5d440c1dd2380beed96541fdb1145a49c1ca02
+
 
 ## Tech Stack
 
@@ -69,11 +66,8 @@ install Bootstrap
 ```bash
  npm i bootstrap@5.3.3
 ```
-=======
->>>>>>> 1d5d440c1dd2380beed96541fdb1145a49c1ca02
 
 
-    
 ## Features
 
 - One to One chat
@@ -81,10 +75,8 @@ install Bootstrap
 - Create Group Chats
 - Authenticaton
 - Real Time Messaging with Typing indicators
-<<<<<<< HEAD
 - News
-=======
->>>>>>> 1d5d440c1dd2380beed96541fdb1145a49c1ca02
+
 
 
 ## Additional Info

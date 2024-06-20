@@ -141,7 +141,7 @@ const SideBar = () => {
               display={{ base: "none", md: "flex" }}
               px={3}
               color={"#274472"}
-              mt={5}
+              marginTop={"16px"}
             >
               Search User
             </Text>
@@ -156,6 +156,7 @@ const SideBar = () => {
             background={"transparent"}
             mt={4}
             fontSize={"xl"}
+            fontWeight={"499"}
           >
             News
           </Text>
